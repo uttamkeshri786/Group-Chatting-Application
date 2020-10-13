@@ -23,6 +23,6 @@ Project Demo : https://www.youtube.com/watch?v=lur3A8X6m6s
 7.Output can also be verified at the terminal of your IDE.
 (Note:- To adjust the window size of chatbox you can edit the width & height as required.)
 ##### Like at here -
-                      setSize(435, 700);
-                      setLocation(5, 5);
+setSize(435, 700);
+setLocation(5, 5);
        
